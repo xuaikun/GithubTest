@@ -1,4 +1,4 @@
-# GithubTest
+﻿# GithubTest
 学习将工程上传GitHub
 ### 1、Windows上安装Git步骤链接：https://www.cnblogs.com/vitah/p/3612473.html
 ### 2、添加公钥到GitHub上的步骤：https://blog.csdn.net/li_lening/article/details/80865431 （本地和GitHub之间的通信）
@@ -17,3 +17,9 @@
 ### git push -u origin master (初次运行时，会弹出窗口让你输入你的GitHub账号和密码，把文件上传到GitHub上面，若出现问题则参考：
 ### https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward )
 ### 文件更新，得把本地仓库的文件修改后，执行以上语句
+
+
+### 这是利用python在pychram下调用百度人脸比对sdk进行筛图的程序
+### TwoClassCompare.py 表示类类比较
+### InterClassCompare.py 表示类间比较
+### 总体来说程序还是比较简单的，过两天去把公司的最后的那个从大文件中选出指定图片的程序弄回来

@@ -1,1 +1,0 @@
-﻿这是利用python在pychram下调用百度人脸比对sdk进行筛图的程序

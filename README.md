@@ -20,6 +20,7 @@
 ### https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward )
 ### 文件更新，得把本地仓库的文件修改后，执行以上语句
 
+### 差不多实现了多电脑操作同一个程序
 
 ### 这是利用python在pychram下调用百度人脸比对sdk进行筛图的程序
 ### TwoClassCompare.py 表示类类比较

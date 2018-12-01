@@ -1,5 +1,5 @@
 # encoding: utf-8
-# 还是非常弱鸡的
+# 2018年12月1日：记完成GitHub的入门学习，这是个很好的开源平台，日后好好利用
 import Function as A                            # 调用Function.py里面定义的函数
 import os
 import Face_Match as B                          # 调用Face_Match.py里面定义的函数

@@ -5,7 +5,7 @@ import Face_Match as B                          # 调用Face_Match.py里面定�
 import random
 import time
 import shutil
-# 加强程序训练的强度呀，兄弟
+# 2018年12月1日，今天不用上班，在学习里面学习使用GitHub
 # 获取当前路径下所以子文件【可以是文件夹，也可以是文件】
 # A.fileInFolder()
 

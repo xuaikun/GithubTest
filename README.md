@@ -8,7 +8,9 @@
 ### 5、非常需要注意的是：当你准备上传项目的时候，不应该认为修改，GitHub上面的目标仓库
 
 # 备注：在自己的随便一台电脑，某个目录行，打开Git Bash 利用：git clone + github上某个仓库的路径：比如 https://github.com/xuaikun/GithubTest.git
-# 就可以将xuaikun的GitHubTest仓库的文件下载到你的目录下，并且包好仓库里面所有的文件，直接拿出来就可以使用了，就是整个工程，立马可以运行，perfect~
+# 就可以将xuaikun的GitHubTest仓库的文件下载到你的目录下，并且包好仓库里面所有的文件，直接就可以运行了，就是整个工程，立马可以运行，perfect~真的是
+# 非常的方便，建立一个自己的文件夹，或者可以不建立，直接在某个目录下，git clone + 那个GitHub上的仓库，直接将它充当运行的工程，多好，操作的更新的时候
+# 也方便，直接git add . , git commit -m "Aikun_Xu_Pc" , git push -u origin master  就ok了，perfect
 
 ### 几个重要的语句：
 ### git clone + 仓库链接（接下来这个仓库就成为了本地仓库，每次更新都得来把这个里面的文件进行更改） 
@@ -23,3 +25,4 @@
 ### TwoClassCompare.py 表示类类比较
 ### InterClassCompare.py 表示类间比较
 ### 总体来说程序还是比较简单的，过两天去把公司的最后的那个从大文件中选出指定图片的程序弄回来
+

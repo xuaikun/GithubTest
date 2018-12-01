@@ -9,3 +9,11 @@
 
 # 备注：在自己的随便一台电脑，某个目录行，打开Git Bash 利用：git clone + github上某个仓库的路径：比如 https://github.com/xuaikun/GithubTest.git
 # 就可以将xuaikun的GitHubTest仓库的文件下载到你的目录下，并且包好仓库里面所有的文件，直接拿出来就可以使用了，就是整个工程，立马可以运行，perfect~
+
+### 几个重要的语句：
+### git clone + 仓库链接（接下来这个仓库就成为了本地仓库，每次更新都得来把这个里面的文件进行更改） 
+### git add . (记得add 和 . 之间存在一个空格)
+### git commit -m "Aikun_Xu_Pc" (" " 双引号中是修改的人)
+### git push -u origin master (初次运行时，会弹出窗口让你输入你的GitHub账号和密码，把文件上传到GitHub上面，若出现问题则参考：
+### https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward )
+### 文件更新，得把本地仓库的文件修改后，执行以上语句
